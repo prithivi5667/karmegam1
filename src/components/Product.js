@@ -7,6 +7,7 @@ import tar from '../images/tarpaulin.jpg';
 import r from '../images/rice.jpeg';
 import seeds from '../images/seeds.jpg';
 import pesti from '../images/pesti.jpeg';
+import sugar from '../images/sugar.jpeg';
 
 class Product extends React.Component{
     render(){
@@ -19,7 +20,7 @@ class Product extends React.Component{
     <Card.Text>
     மரச்செக்கு எண்ணெய்/Cold Pressed Oil
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem' ,height: '28rem' }}>
@@ -29,7 +30,7 @@ class Product extends React.Component{
     <Card.Text>
     மரச்செக்கு எண்ணெய்/Cold Pressed Oil
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem' ,height: '28rem' }}>
@@ -39,7 +40,7 @@ class Product extends React.Component{
     <Card.Text>
     மரச்செக்கு எண்ணெய்/Cold Pressed Oil
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem' ,height: '28rem' }}>
@@ -49,7 +50,7 @@ class Product extends React.Component{
     <Card.Text>
     Black HDPE 250 GSM Heavy Duty
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 
@@ -60,7 +61,7 @@ class Product extends React.Component{
     <Card.Text>
     IR-20
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 
@@ -71,7 +72,7 @@ class Product extends React.Component{
     <Card.Text>
     Top branded seeds
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem' ,height: '28rem' }}>
@@ -81,17 +82,17 @@ class Product extends React.Component{
     <Card.Text>
     Top Quality Pesticides
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 <Card style={{ width: '18rem' ,height: '28rem' }}>
-  <Card.Img variant="top" src={seeds} />
+  <Card.Img variant="top" src={sugar} />
   <Card.Body>
-    <Card.Title>  All variety of seeds</Card.Title>
+    <Card.Title>  Nattu Sakkrai/நாட்டுச் சர்க்கரை</Card.Title>
     <Card.Text>
     Top branded seeds
     </Card.Text>
-    <Button variant="warning">Add to cart</Button>
+    <Button variant="warning">View Details</Button>
   </Card.Body>
 </Card>
 
