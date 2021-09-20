@@ -90,7 +90,7 @@ class Product extends React.Component{
   <Card.Body>
     <Card.Title>  Nattu Sakkrai/நாட்டுச் சர்க்கரை</Card.Title>
     <Card.Text>
-    Top branded seeds
+    
     </Card.Text>
     <Button variant="warning">View Details</Button>
   </Card.Body>
