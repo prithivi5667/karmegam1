@@ -7,7 +7,7 @@ import tar from '../images/tarpaulin.jpg';
 import r from '../images/rice.jpeg';
 import seeds from '../images/seeds.jpg';
 import pesti from '../images/pesti.jpeg';
-import sugar from '../images/sugar.jpeg';
+import sugar from '../images/sugar.jpg';
 
 class Product extends React.Component{
     render(){
