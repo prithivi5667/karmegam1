@@ -36,7 +36,7 @@ const Home  = () => {
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5"><img src={rice} className="imgrounded" alt=''/> </div>
                     </div>
-                    <div className="col-lg-6 order-lg-1">
+                    <div className="col-lg-6 order-lg-1 sm-2">
                         <div className="p-5">
                             <h2 className="display-4">Pesticides...</h2>
                             <p>mixture of substances intended for preventing, destroying, repelling, or mitigating any pest.Any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant.
