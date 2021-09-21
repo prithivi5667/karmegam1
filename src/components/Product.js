@@ -1,7 +1,7 @@
 import React from 'react';
 import{Card,Button} from 'react-bootstrap';
 import coconut from '../images/coco.jpeg';
-import g from '../images/groundnut.jpeg';
+import g from '../images/groundnut.jpg';
 import sea from '../images/oil.jpeg';
 import tar from '../images/tarpaulin.jpg';
 import r from '../images/rice.jpeg';
