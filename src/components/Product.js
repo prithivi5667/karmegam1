@@ -88,7 +88,7 @@ class Product extends React.Component{
 <Card style={{ width: '18rem' ,height: '28rem' }}>
   <Card.Img variant="top" src={sugar} />
   <Card.Body>
-    <Card.Title>  Nattu Sakkrai/நாட்டுச் சர்க்கரை</Card.Title>
+    <Card.Title>  நாட்டுச் சர்க்கரை</Card.Title>
     <Card.Text>
     
     </Card.Text>
