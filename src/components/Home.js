@@ -32,7 +32,7 @@ const Home  = () => {
            <Col>
         <section id="scroll">
             <div className="container px-5">
-                <div className="row gx-5 align-items-center">
+                <div className="row gx-5 align-items-center sm-4">
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5"><img src={rice} className="imgrounded" alt=''/> </div>
                     </div>

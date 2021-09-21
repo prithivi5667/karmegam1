@@ -158,3 +158,8 @@ a{
   text-decoration: none;
   text-transform: none;
 }
+.newsm{
+  float: left;
+  width: auto;
+  overflow: hidden;
+}
