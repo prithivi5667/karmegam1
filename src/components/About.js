@@ -19,6 +19,8 @@ class About extends React.Component {
                 <div className="h4 text-center mb-4 title">
                   <span className="badge badge-success">About</span>
                 </div>
+                 <p>HI impact. ... </p>
+
                 {this.state.projects.map((project) => (
                   <div className="card">
                     <div className="row">
